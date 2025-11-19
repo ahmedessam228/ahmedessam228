@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 ### Technical Skills
@@ -58,22 +57,9 @@
 
 ---
 
-## 🚀 Featured Projects  
-### 🛒 **E-commerce Backend System**
-Clean Architecture | APIs | Authentication | Order Flow
-
-### 🔬 **Science Lab (AR System)**
-Real-time data | AR integration | MongoDB
-
-### 📘 **Library Management System**
-ASP.NET Core MVC | SQL Server | Authentication
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedessam228&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedessam228&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
