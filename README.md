@@ -17,31 +17,43 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
+
+### Programming Languages
 <p align="center">
-  
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css" /><br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
 
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>  
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-6DB33F?style=for-the-badge&logo=nuget&logoColor=white"/>
-
-  <br/>
-
-  <!-- Tools & Tech -->
+### Technical Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-6f42c1?style=for-the-badge&logo=architecture&logoColor=white"/>
   <img src="https://img.shields.io/badge/SignalR-1e8cbe?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge&logo=nuget&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINQ-0078D7?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-FF6F61?style=for-the-badge&logo=object-oriented&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Structure-FF9900?style=for-the-badge&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-0F52BA?style=for-the-badge&logo=algorithm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-4B0082?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA-F05033?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
-  <br/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+### Soft Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Analysis-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time_Management-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adaptable_to_New_Technologies-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Diligent_and_Efficient_Worker-8A2BE2?style=for-the-badge"/>
 </p>
 
 ---
