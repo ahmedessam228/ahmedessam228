@@ -1,88 +1,80 @@
-<!-- Header Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=230&section=header&text=Ahmed%20Essam&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2a5298&text=Ahmed%20Essam&height=120&fontSize=60&desc=Backend%20.NET%20Developer&descAlignY=75&descAlign=50" />
 </p>
 
-<h2 align="center">Backend .NET Developer</h2>
-<p align="center"><b>Graduate of Faculty of Computers & Artificial Intelligence</b></p>
-
----
-
-## 🔥 About Me  
 <p align="center">
-  Passionate about building clean, scalable backend systems.<br/>
-  Love solving complex problems with simple architectures.<br/>
-  Focused on APIs, real-time systems, and backend performance.
+  <img src="https://img.shields.io/badge/.NET%20Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23%20Backend-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠️ Skills  
+## 🌟 About Me  
+🧠 Backend .NET Developer focused on building **high-quality scalable systems**  
+⚙️ Experienced in **APIs, Microservices, Entity Framework, SQL Optimization**  
+🚀 I love writing **clean code, clean architecture**, and designing systems that last  
+🔥 Interested in **real-time apps, SignalR, and high-performance backend workflow**  
 
-### 🚀 Programming Languages
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java" />
 </p>
 
-### 🧩 Technical Skills
+### 🏗️ Frameworks & Backend Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-6f42c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SignalR-1e8cbe?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LINQ-0078D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Structures-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-0F52BA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CCNA-F05033?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,sqlite,postgres,redis" />
 </p>
 
-### 🤝 Soft Skills
+### 🌐 Web & Others  
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem_Solving-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Teamwork-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System_Analysis-32CD32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time_Management-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Adaptable_to_New_Technologies-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Diligent_and_Efficient_Worker-8A2BE2?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,linux,git" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🔥 Core Competencies  
+✔ Clean Architecture  
+✔ OOP & Design Principles  
+✔ Entity Framework Core  
+✔ SQL Server & Query Optimization  
+✔ SignalR & Real-Time Systems  
+✔ API Design & Documentation  
+✔ Problem Solving & System Analysis  
+
+---
+
+## 📈 GitHub Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedessam228&show_icons=true&theme=tokyonight" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmedessam228&show_icons=true&theme=neon" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedessam228&theme=neon" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedessam228&layout=compact&theme=tokyonight" height="150"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedessam228&layout=compact&theme=neon" />
 </p>
 
 ---
 
-## 📫 Contact Me  
+## 📬 Contact  
 <p align="center">
   <a href="mailto:ahmedessam228@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmed-essam228">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
   <a href="https://github.com/ahmedessam228">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2a5298&height=110&section=footer"/>
 </p>
