@@ -1,86 +1,92 @@
-<!-- 🌌 Modern Animated GitHub README -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=550&lines=Ahmed+Essam;Backend+.NET+Developer;API+%7C+EF+Core+%7C+SQL+Server;Building+Scalable,+Reliable+Systems" />
+</h1>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=Ahmed+Essam;Backend+.NET+Developer;Clean+Architecture+Advocate;API+%7C+EF+Core+%7C+SQL+Server;Crafting+Scalable+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedessam228/ahmedessam228/main/assets/hero-wave.svg" width="100%"/>
-</p>
-
----
-
-## ✨ About Me
-
-<p align="center" style="font-size:17px;">
-  Backend .NET Developer passionate about building <b>clean</b>, <b>scalable</b>, and <b>high‑performance</b> backend systems.<br>
-  I love designing REST APIs, optimizing databases, and crafting well‑architected software.<br>
-  Always learning. Always improving. Always shipping.
+  🎯 Passionate about building **Scalable** and **Reliable** backend systems using the .NET ecosystem.
+  <br/>
+  ✨ Obsessed with **Clean Architecture**, performance tuning, and adhering to **Clean Code** principles.
+  <br/>
+  ⚙️ Transforming complex requirements into simple, practical, and well-engineered software solutions.
 </p>
 
 ---
 
-## 🧩 Animated Tech Stack
+## 💻 Tech Stack & Tools  
+My specialization is in Backend Development and Systems Engineering, with a strong focus on data management and optimization.
 
+### 🌐 Backend & Core Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,postman&theme=light" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,postman,sqlite" />
 </p>
 
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=cs,js&frameworks=dotnet&tools=git,github,postman&theme=dark"/>
-</div>
-
----
-
-## ⚡ Professional Highlights
-
-* 🚀 API Engineering & Clean Endpoint Design
-* 🧱 Clean Architecture + SOLID Principles
-* ⚡ SQL Query Optimization & Indexing
-* 🔄 Real‑time Applications using SignalR
-* 🛠️ Refactoring, Debugging & System Analysis
-* 🔍 Git/GitHub Workflow & Versioning
-* 🏗️ System Architecture & Scalability
-
----
-
-## 🎯 Developer Summary
-
+### 💾 Data Management (Database & ORM)  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&pause=700&color=3AAFA9&center=true&vCenter=true&width=700&lines=I+build+systems+that+scale.;I+write+clean+and+maintainable+code.;I+focus+on+performance+%26+architecture.;I+love+learning+and+shipping+real+projects." />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+### 🛠️ Other Tools & Environment  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,html,css,js" />
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## ⭐ Key Strengths  
+The primary skills and expertise I bring to system development:
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedessam228&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedessam228&theme=radical" />
-</p>
+* **Clean Code & Architecture:** Applying **Clean Architecture** and **SOLID** principles for maintainability and scalability.
+* **Database Performance Tuning:** Advanced skills in **Query Optimization**, **Indexing**, and performance profiling, especially with **SQL Server**.
+* **API Design & Documentation:** Expertise in designing robust **RESTful APIs** and managing **API Versioning**.
+* **Real-time Systems:** Developing live communication features using **SignalR** for instant interaction.
+* **Problem Solving & Debugging:** Fast and methodical approach to analyzing complex system failures and debugging issues.
+* **System Analysis & Re-Architecture:** Ability to assess existing systems and propose effective structural improvements (Re-Architecture).
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedessam228&layout=compact&theme=radical" />
-</p>
+---
 
+## 💡 Philosophy & Focus  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedessam228&theme=dracula&column=6&margin-w=10" />
+  I am a backend developer who prioritizes **Clarity**, **Performance**, and **Consistency** in every project.<br/>
+  My goal is to build systems that are: **(1) Easy to Maintain**, **(2) Seamlessly Scalable**, and **(3) Clean to Read**.
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Contributions  
+Check out my latest activity and general stats:
 
 <p align="center">
-  <a href="mailto:ahmedessam228@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-essam228"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://github.com/ahmedessam228"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedessam228&show_icons=true&theme=react&border_radius=10" alt="Ahmed Essam GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedessam228&theme=react&border_radius=10" alt="Ahmed Essam GitHub Streak"/>
 </p>
 
-<br>
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedessam228&layout=compact&theme=react&border_radius=10" alt="Ahmed Essam Top Languages"/>
+</p>
+
+---
+
+## ✉️ Connect With Me  
+Feel free to connect for job opportunities, technical discussions, or any inquiries!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer" />
+  <a href="mailto:ahmedessam228@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-essam228" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ahmedessam228" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" />
 </p>
